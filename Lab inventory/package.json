@@ -1,0 +1,7 @@
+{
+  "name":"inventory-management-lab3-alt",
+  "version":"2.0.0",
+  "main":"backend/app.js",
+  "scripts":{"start":"node backend/app.js","dev":"node --watch backend/app.js"},
+  "dependencies":{"express":"^4.21.2","mongoose":"^8.9.5","dotenv":"^16.4.7"}
+}
